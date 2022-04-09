@@ -1,0 +1,8 @@
+.input-box__input {
+  outline: none;
+  border: none;
+  height: 30px;
+  width: 250px;
+  background-color: rgba(32, 32, 32, 0.8);
+  color: whitesmoke;
+}

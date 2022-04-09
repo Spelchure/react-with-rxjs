@@ -1,0 +1,5 @@
+.text-field__text {
+  white-space: normal;
+  word-break: break-all;
+  font-style: italic;
+}
